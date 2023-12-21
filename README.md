@@ -27,8 +27,9 @@ In a world where misinformation rapidly shapes public opinion, our system provid
     (https://aclanthology.org/W18-5513/)
 ## Outputs
 ![methodology](Final_Results/methodology.png)
-![methodology](Final_Results/methodology.png)
-![methodology](Final_Results/methodology.png)
+![eng results](Final_Results/results-english.png)
+![ben results](Final_Results/results-bangla.png)
+![final results](Final_Results/final-results.png)
 
 ## Acknowledgements
 
