@@ -27,6 +27,7 @@ In a world where misinformation rapidly shapes public opinion, our system provid
     (https://aclanthology.org/W18-5513/)
 ## Outputs
 
+![methodology] (./Final_Results/methodology.png)
 - https://github.com/SkGouseMastanVali/Fake_News_Detection_Using_Deep_Learning/blob/main/Final_Results/methodology.png
 - 
 ## Acknowledgements
