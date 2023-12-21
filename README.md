@@ -30,18 +30,18 @@ In a world where misinformation rapidly shapes public opinion, our system provid
 
 <div style="display: flex; justify-content: space-evenly;">
   <div style="flex: 1; display: flex;">
-    <img src="Final_Results/e-1.png" alt="English Results Image 1" style="width: 300px; height: auto;">
-    <img src="Final_Results/e-2.png" alt="English Results Image 2" style="width: 300px; height: auto;">
-    <img src="Final_Results/e-3.png" alt="English Results Image 3" style="width: 300px; height: auto;">
+    <img src="Final_Output_images/e-1.png" alt="English Results Image 1" style="width: 300px; height: auto;">
+    <img src="Final_Output_images/e-2.png" alt="English Results Image 2" style="width: 300px; height: auto;">
+    <img src="Final_Output_images/e-3.png" alt="English Results Image 3" style="width: 300px; height: auto;">
   </div>
 </div>
 
   <div>
-    <img src="Final_Results/b-1.png" alt="Bengali Results Image 1" width="300">
-    <img src="Final_Results/b-2.png" alt="Bengali Results Image 2" width="300">
+    <img src="Final_Output_images/b-1.png" alt="Bengali Results Image 1" width="300">
+    <img src="Final_Output_images/b-2.png" alt="Bengali Results Image 2" width="300">
   </div>
   <div>
-    <img src="Final_Results/final-results.png" alt="Final Results Image" width="300">
+    <img src="Final_Output_images/final-results.png" alt="Final Results Image" width="300">
   </div>
 </div>
 
