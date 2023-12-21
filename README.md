@@ -47,5 +47,5 @@ In a world where misinformation rapidly shapes public opinion, our system provid
 
 ## Acknowledgements
 
-Gratitude to Sam Houston State University's Department of Computer Science for their invaluable support.
+I extend my sincere gratitude to the Department of Computer Science at Sam Houston State University for their invaluable support and guidance throughout this project.
 
