@@ -16,7 +16,7 @@ In a world where misinformation rapidly shapes public opinion, our system provid
 - Vectorization: Transformed text data into numerical format using TF-IDF and Word Embeddings for effective model training.
 ## Algorithm Implementation and Methodology
 
-- Training Approach: Each model trained separately on curated datasets with careful hyperparameter tuning.
+- Training Approach: Each model is trained separately on curated datasets with careful hyperparameter tuning.
 - Evaluation Metrics: Used Accuracy, Precision, Recall, and F1 Score metrics to assess model performance.
 - Methodology: Agile and RAD methodologies guided development for adaptability and rapid iteration.
 ## Datasets
@@ -25,6 +25,10 @@ In a world where misinformation rapidly shapes public opinion, our system provid
    (https://huggingface.co/datasets/davanstrien/WELFake)
 - Bengali Dataset: Sourced from the BanFakeNews paper with 48,678 genuine and 1,299 fake articles.  
     (https://aclanthology.org/W18-5513/)
+## Outputs
+
+- https://github.com/SkGouseMastanVali/Fake_News_Detection_Using_Deep_Learning/blob/main/Final_Results/methodology.png
+- 
 ## Acknowledgements
 
 Gratitude to Sam Houston State University's Department of Computer Science for their invaluable support.
