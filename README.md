@@ -25,11 +25,25 @@ In a world where misinformation rapidly shapes public opinion, our system provid
    (https://huggingface.co/datasets/davanstrien/WELFake)
 - Bengali Dataset: Sourced from the BanFakeNews paper with 48,678 genuine and 1,299 fake articles.  
     (https://aclanthology.org/W18-5513/)
+
 ## Outputs
-![methodology](Final_Results/methodology.png)
-![eng results](Final_Results/results-english.png)
-![ben results](Final_Results/results-bangla.png)
-![final results](Final_Results/final-results.png)
+
+<div style="display: flex; justify-content: space-evenly;">
+  <div style="flex: 1; display: flex;">
+    <img src="Final_Results/e-1.png" alt="English Results Image 1" style="width: 300px; height: auto;">
+    <img src="Final_Results/e-2.png" alt="English Results Image 2" style="width: 300px; height: auto;">
+    <img src="Final_Results/e-3.png" alt="English Results Image 3" style="width: 300px; height: auto;">
+  </div>
+</div>
+
+  <div>
+    <img src="Final_Results/b-1.png" alt="Bengali Results Image 1" width="300">
+    <img src="Final_Results/b-2.png" alt="Bengali Results Image 2" width="300">
+  </div>
+  <div>
+    <img src="Final_Results/final-results.png" alt="Final Results Image" width="300">
+  </div>
+</div>
 
 ## Acknowledgements
 
