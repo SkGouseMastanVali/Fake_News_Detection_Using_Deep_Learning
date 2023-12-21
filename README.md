@@ -26,7 +26,7 @@ In a world where misinformation rapidly shapes public opinion, our system provid
 - Bengali Dataset: Sourced from the BanFakeNews paper with 48,678 genuine and 1,299 fake articles.  
     (https://aclanthology.org/W18-5513/)
 ## Outputs
-![methodology](https://i.postimg.cc/3wfHXSzc/methodology.png)
+![methodology](Final_Results/methodology.png)
 
 ## Acknowledgements
 
