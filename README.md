@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Welcome to our collaborative project from Sam Houston State University focused on innovative Fake News Detection in both English and Bengali languages, emphasizing challenges in low-resource linguistic scenarios.
+The project aims to detect Fake News in both English and Bengali languages, emphasizing challenges in low-resource linguistic scenarios.
 ## Abstract
 In a world where misinformation rapidly shapes public opinion, our system provides a high-accuracy solution. Employing advanced machine learning techniques, we achieved remarkable accuracy—98% in English and 93% in Bengali—for fake news detection.
 ## SYSTEM OVERVIEW
