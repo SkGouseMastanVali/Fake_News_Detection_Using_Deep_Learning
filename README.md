@@ -14,6 +14,7 @@ In a world where misinformation rapidly shapes public opinion, our system provid
 ## Data Processing
 - Preprocessing: Applied standard text cleaning methods—tokenization, lemmatization, and stop word removal.
 - Vectorization: Transformed text data into numerical format using TF-IDF and Word Embeddings for effective model training.
+- Balancing the datasets with the help of resampling techniques.
 ## Algorithm Implementation and Methodology
 
 - Training Approach: Each model is trained separately on curated datasets with careful hyperparameter tuning.
